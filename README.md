@@ -1,6 +1,6 @@
 # Logo
 
-<img src="images/![bg-1](https://github.com/ngoleminh1904/Workshop/assets/116073496/40cbfb53-0fd6-4ddd-8e95-9b6dd2a78a30)
+<img src="images/![bg-1](file:///Users/ngoleminh/Documents/expo-M4K/assets/images/bg-1.jpg)
 " width="40%" alt='logo'>
 
 ## Table of Contents
