@@ -1,6 +1,6 @@
 # Logo
 
-<img src="images/![bg-1](https://github.com/ngoleminh1904/Workshop/assets/116073496/66f459c4-ad39-4354-ac7d-abdd32ebb38f)
+<img src="images/bg-1.jpg
 " width="40%" alt='logo'>
 
 ## Table of Contents
