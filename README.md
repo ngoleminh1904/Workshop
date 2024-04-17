@@ -1,6 +1,6 @@
 # Logo
 
-<img src="images/Background.png" width="40%" alt='logo'>
+<img src="images/bg-1.jpg" width="40%" alt='logo'>
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
